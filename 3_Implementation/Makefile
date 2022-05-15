@@ -1,5 +1,5 @@
 # Name of the project
-PROJ_NAME = Automatic-Room-Lighting-System
+PROJ_NAME = Rain Sensing Automatic Car Wiper using Microcontroller
 TEST_PROJ_NAME = Test_$(PROJ_NAME)
 
 BUILD_DIR = Build
