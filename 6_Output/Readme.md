@@ -1,4 +1,4 @@
-## WORKING OF THE PROJECT
+## OUTPUT
 ![image](https://user-images.githubusercontent.com/102902624/168485747-5be7bcf6-9f98-402b-9f81-38dea228d650.png)
 
 Thus, we have implemented a model that senses rains and automatically switches
