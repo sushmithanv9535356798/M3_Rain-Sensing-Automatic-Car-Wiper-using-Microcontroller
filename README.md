@@ -26,9 +26,13 @@ raindrop sensor with an AT89C51 Microcontroller
 
 Codiga
 
+![Codiga Score](https://api.codiga.io/project/33561/score/svg)
+
+![Codiga Grade](https://api.codiga.io/project/33561/status/svg)
 
 Codacy
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2e405786841e4c599a70f61b8b806812)](https://www.codacy.com/gh/sushmithanv9535356798/M3_Rain-Sensing-Automatic-Car-Wiper-using-Microcontroller/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sushmithanv9535356798/M3_Rain-Sensing-Automatic-Car-Wiper-using-Microcontroller&amp;utm_campaign=Badge_Grade)
 
 ### Badges
 |Build CI-Linux|Build CI-Windows|Analysis|Unit Testing |Git Inspector| Cpp Check |
