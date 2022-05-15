@@ -8,7 +8,7 @@ BUILD_DIR = Build
 SRC =test/test.c
 
 # All test source files
-TEST_SRC = test/test_ARLS.c\
+TEST_SRC = test/test_RSAC.c\
 unity/unity.c
 
 # All include folders with header files
