@@ -10,4 +10,5 @@ windshield of a car. We develop a prototype for our idea by integrating a servo 
 raindrop sensor with an AT89C51 Microcontroller
 
 # Image
-![250px-Windscreen_Wiper](https://user-images.githubusercontent.com/101176652/168478774-12f746fd-ff52-437c-b6a5-ecb5cff25c33.gif)
+
+![BabyishShamefulConey-size_restricted](https://user-images.githubusercontent.com/101176652/168479485-8531902f-2e32-4cd7-844f-cabdb1320505.gif)
